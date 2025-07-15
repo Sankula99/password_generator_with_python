@@ -1,4 +1,4 @@
-# password_generator_with_python
+# Password Generator using Python and random function.
 🔐 Password Generator Description
 This function generates a secure, random password that meets standard complexity requirements for strong authentication. The generated password will:
 
